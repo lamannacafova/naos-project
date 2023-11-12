@@ -15,9 +15,9 @@ const Section2 = () => {
             <h2 className="text-blue text-[20px] font-poppins font-normal leading-[40px] w-[200px] border-b-[2px] border-blue ">Endirimli məhsullar</h2>
             <NavLink className="w-[123px] h-[30px] rounded-[4px] border border-lightBlack text-lightBlack text-[15px] font-poppins font-normal flex items-center justify-center">Hamısına bax</NavLink>
         </div>
-        <div className="flex flex-wrap items-center justify-between mt-[30px]">
-        <div className="w-[298px] h-[462px]">
-        <div className="mb-[-40px] ml-[17px] space-x-2">
+        <div className="flex flex-wrap items-center justify-between mt-[30px] mx-[50px] lg:mx-0">
+        <div className="w-[298px] h-[462px] mt-[25px] lg:mt-[20px]">
+        <div className="mb-[-40px] ml-[17px] space-x-2 min-[360px]:flex min-[360px]:pr-[10px]">
           <button className="w-[100px] h-[30px] rounded-[4px] bg-blueBg text-white text-[15px] font-poppins font-normal">Çox satılan</button>
           <button className="w-[150px] h-[30px] rounded-[4px] bg-red text-white text-[15px] font-poppins font-normal">Pulsuz çatdırılma</button>
         </div>
@@ -52,7 +52,7 @@ const Section2 = () => {
           </div>
       </div>
       <div className="w-[298px] h-[462px]">
-        <div className="mb-[-40px] ml-[17px] space-x-2">
+        <div className="mb-[-40px] ml-[17px] space-x-2 min-[360px]:flex min-[360px]:pr-[10px] min-[320px]:flex min-[320px]:pr-[5px]">
           <button className="w-[100px] h-[30px] rounded-[4px] bg-blueBg text-white text-[15px] font-poppins font-normal">Çox satılan</button>
           <button className="w-[150px] h-[30px] rounded-[4px] bg-red text-white text-[15px] font-poppins font-normal">Pulsuz çatdırılma</button>
         </div>

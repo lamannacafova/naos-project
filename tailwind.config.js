@@ -10,14 +10,14 @@ export default {
         screens:{
           xs:"200px",
           sm: '300px',
-          xmd: '550px',
+          xs:"390px",
+          sm: '550px',
           md: '768px',
           lmd: '992px',
           lg: '1024px',
           xl: '1280px',
           "2xl":'1400px',
           '2xsm': '375px',
-          xsm: '425px',
           '3xl': '2000px',
         }
       },

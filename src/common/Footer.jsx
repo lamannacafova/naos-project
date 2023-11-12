@@ -77,7 +77,7 @@ const Footer = () => {
            <ul className="mt-[16px] grid grid-cols-2 place-items-center lg:place-items-start  lg:grid-cols-none">
              <li className="mb-[6px]"><NavLink className="text-lightgray text-[14px] font-poppins font-normal">Haqqımızda</NavLink></li>
              <li className="mb-[6px]"><NavLink className="text-lightgray text-[14px] font-poppins font-normal">Faydalı</NavLink></li>
-             <li className="mb-[6px]"><NavLink className="text-lightgray text-[14px] font-poppins font-normal ">Aksiyalar və Kompaniyalar</NavLink></li>
+             <li className="mb-[6px]"><NavLink className="text-lightgray text-[14px] font-poppins font-normal ">Aksiyalar və Kompaniya</NavLink></li>
            </ul>
          </div>
          <div className="mb-[20px] lg:mb-0 flex flex-col items-center justify-center lg:items-baseline lg:justify-content">
