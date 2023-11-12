@@ -22,7 +22,7 @@ const Header = () => {
         {/* header-top */}
         <div className=" lg:flex  items-center justify-end h-[40px] bg-lightBlue">
           <div className="w-[700px] h-full flex items-center mx-[40px] lg:mx-0">
-            <p className="font-poppins text-white text-[14px] lg:text-[15px] leading-[20px] font-medium">
+            <p className="font-poppins text-white text-[11px] lg:text-[15px] leading-[20px] font-medium">
               Bioderma, Institut Esthederm ve Etat Pur rəsmi satış saytıdır.
             </p>
           </div>
